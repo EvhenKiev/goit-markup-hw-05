@@ -509,8 +509,8 @@ padding: 96px 0 120px;
     width: calc((100% - 48px) / 3);
 }
 
-.portfolio-item:hover .portfolio-cover-text,
-.portfolio-item:focus .portfolio-cover-text {
+.portfolio-link:hover .portfolio-cover-text,
+.portfolio-link:focus .portfolio-cover-text {
     transform: translateY(0%)
 
 }
